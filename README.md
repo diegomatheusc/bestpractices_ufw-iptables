@@ -19,7 +19,7 @@ Permita o tráfego de conexões já estabelecidas e conexões relacionadas ao tr
 Para isso, utilize a opção *limit* para isso e evitar um ataque de força bruta ou DDoS.
 
 ```
---limite
+--limit
 ```
 
 7. **Evite o Port Knocking**.
